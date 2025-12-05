@@ -1,0 +1,5 @@
+{
+  "name": "STIDA v4 Security Investment Calculator",
+  "description": "A Tier 1 & Tier 2 cybersecurity investment calculator implementing STIDA v4 logic with independent domain scoring, mandatory floor thresholds, and iterative portfolio optimization.",
+  "requestFramePermissions": []
+}
