@@ -23,7 +23,7 @@ Builds a budget-constrained portfolio using a transparent greedy heuristic (best
 
 2. Inputs (What the User Provides)
 
-STIDA v4.1 assumes four main input groups:
+STIDA v4.1 assumes FIVE main input groups:
 
 Domains & KPIs
 
